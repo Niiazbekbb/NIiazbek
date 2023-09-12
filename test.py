@@ -1,0 +1,1 @@
+print("My name is Niiazbek and my student id is 202312398")
